@@ -46,7 +46,7 @@ nav ul {
 }
 
 .header {
-  background: url(/images/pizza-and-pasta.jpg);
+  background: url(./images/pizza-and-pasta.jpg);
   background-size: cover;
   background-position: center;
   color: white;
